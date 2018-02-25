@@ -12,7 +12,7 @@
   summary: Handled all development-related issues pertaining to the US market, such as customer development requests, customer bug reports and US development projects.<ul class="resume-item-list"><li>Handled all communications with the international development manager in the UK for the US office.</li><li>Commercial software development. Primary product StruCad (www.StruCad.com), an internationally renowned steel-detailing program, retail price $37,000.</li><li>Lead developer for a new material-listing system for StruCad. Project was designed from the ground up using Microsoft Visual C++, Microsoft Visual C#, and Digital Visual Fortran with a Microsoft Access backend. Both DAO and ADO.net were used for database access.</li></ul>
 
 # Senior Software Developer 
-- company: AceCad Software, Inc
+#- company: AceCad Software, Inc
   position: Senior Software Developer 
   duration: 9/2000 &mdash; Dec, 11/2003
   summary: Lead developer stand-alone .NET commercial software product. Managed and trained developers with .NET technologies to develop the product from design to deployment within a nine-month period. Technologies used include .NET Framework, C#, C++ with managed extensions, SQL Server, ADO.NET, ASP.NET and XML Web services.<ul class="resume-item-list"><li>Developed Windows interface for StruCad. Involved rewriting a drawing management front end and menu system. Also included adding previously unimplemented Windows features, such as dynamic toolbars, fully customizable accelerator keys, and its own “start menu,” along with management tools for each of these features. All development was done in Microsoft Visual C++ (MFC, ADO, DAO) with Microsoft Access databases as the backend.</li></ul>
