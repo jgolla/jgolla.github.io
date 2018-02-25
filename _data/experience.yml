@@ -3,34 +3,16 @@
 - company: OSIsoft, LLC
   position: Development Team Leader
   duration: Jan, 2005 &mdash; Present
-  summary: Worked on and lead various teams that developed, maintained and tested products for the PI System (www.OSIsoft.com), which is an industry standard in enterprise historians. 
-
-Team Leader for a team that designed, developed, maintained, and tested PI Vision, a web-based application written in Angular, which is used to quickly and easily analyze enterprise-wide PI data. 
-
-Created and presented software demonstrations and courses for vary aspect of PI Vision and the PI Vision extensibility model. 
-
-Developed and maintained PI ProcessBook, which is a GUI system that allows users to create dynamic, interactive graphical displays featuring real-time PI data, and its web based counterpart PI ActiveView. 
-
-Took part in peer code reviews of code for PI Vision, PI ProcessBook and PI ActiveView. 
-
-Technologies used include JavaScript, TypeScript, HTML, CSS, .NET (C#, WPF, Silverlight, XAML), Visual C++, Visual Basic, Visual Basic for Applications. 
+  summary: Worked on and lead various teams that developed, maintained and tested products for the PI System (www.OSIsoft.com), which is an industry standard in enterprise historians.<ul class="resume-item-list"><li>Team Leader for a team that designed, developed, maintained, and tested PI Vision, a web-based application written in Angular, which is used to quickly and easily analyze enterprise-wide PI data.</li><li>Created and presented software demonstrations and courses for vary aspect of PI Vision and the PI Vision extensibility model.</li><li>Developed and maintained PI ProcessBook, which is a GUI system that allows users to create dynamic, interactive graphical displays featuring real-time PI data, and its web based counterpart PI ActiveView.</li><li>Took part in peer code reviews of code for PI Vision, PI ProcessBook and PI ActiveView.</li><li>Technologies used include JavaScript, TypeScript, HTML, CSS, .NET (C#, WPF, Silverlight, XAML), Visual C++, Visual Basic, Visual Basic for Applications.</li></ul>
 
 # Development Team Leader for North American Operations
 - company: AceCad Software, Inc
   position: Development Team Leader for North American Operations
   duration: 11/2003 &mdash; Dec, 12/2004
-  summary: Handled all development-related issues pertaining to the US market, such as customer development requests, customer bug reports and US development projects. 
-
-Handled all communications with the international development manager in the UK for the US office. 
-
-Commercial software development. Primary product StruCad (www.StruCad.com), an internationally renowned steel-detailing program, retail price $37,000. 
-
-Lead developer for a new material-listing system for StruCad. Project was designed from the ground up using Microsoft Visual C++, Microsoft Visual C#, and Digital Visual Fortran with a Microsoft Access backend. Both DAO and ADO.net were used for database access. 
+  summary: Handled all development-related issues pertaining to the US market, such as customer development requests, customer bug reports and US development projects.<ul class="resume-item-list"><li>Handled all communications with the international development manager in the UK for the US office.</li><li>Commercial software development. Primary product StruCad (www.StruCad.com), an internationally renowned steel-detailing program, retail price $37,000.</li><li>Lead developer for a new material-listing system for StruCad. Project was designed from the ground up using Microsoft Visual C++, Microsoft Visual C#, and Digital Visual Fortran with a Microsoft Access backend. Both DAO and ADO.net were used for database access.</li></ul>
 
 # Senior Software Developer 
 - company: AceCad Software, Inc
   position: Senior Software Developer 
   duration: 9/2000 &mdash; Dec, 11/2003
-  summary: Lead developer stand-alone .NET commercial software product. Managed and trained developers with .NET technologies to develop the product from design to deployment within a nine-month period. Technologies used include .NET Framework, C#, C++ with managed extensions, SQL Server, ADO.NET, ASP.NET and XML Web services. 
-
-Developed Windows interface for StruCad. Involved rewriting a drawing management front end and menu system. Also included adding previously unimplemented Windows features, such as dynamic toolbars, fully customizable accelerator keys, and its own “start menu,” along with management tools for each of these features. All development was done in Microsoft Visual C++ (MFC, ADO, DAO) with Microsoft Access databases as the backend. 
+  summary: Lead developer stand-alone .NET commercial software product. Managed and trained developers with .NET technologies to develop the product from design to deployment within a nine-month period. Technologies used include .NET Framework, C#, C++ with managed extensions, SQL Server, ADO.NET, ASP.NET and XML Web services.<ul class="resume-item-list"><li>Developed Windows interface for StruCad. Involved rewriting a drawing management front end and menu system. Also included adding previously unimplemented Windows features, such as dynamic toolbars, fully customizable accelerator keys, and its own “start menu,” along with management tools for each of these features. All development was done in Microsoft Visual C++ (MFC, ADO, DAO) with Microsoft Access databases as the backend.</li></ul>
